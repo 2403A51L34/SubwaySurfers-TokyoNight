@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+.vs/
+.gradle/
+.DS_Store
+Thumbs.db
+
+*.csproj
+*.sln
+*.user
+*.tmp
